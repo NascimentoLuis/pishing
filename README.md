@@ -13,8 +13,11 @@ Este projeto contém uma simples implementação de uma página falsa de phishin
    ```bash
    git clone https://github.com/NascimentoLuis/pishing.git
 
-**Execute o script:**
+2.**Execute o script:**
+  ```bash
 python server.py
+```
+
 
 **Aviso**
 Este projeto é apenas para fins educativos e não deve ser utilizado para atividades ilegais.
